@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Обо мне
+subtitle: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Дмитрий Владимирович Куприянов, работал старшим преподавателем на кафедре Мехатроники в ИТМО.
+Создал студенческую научно-исследовательскую лабораторию MT.lab.
+Занимаюсь интесными вещами в области мехатроники и робототехники, сейчас особенно интересует звук.
+Область научных интересов: прикладная робототехника, аудиотехника.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Как меня найти
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Есть два варианта:
+  * почта dmitry@ на этом домене
+  * telegram: @ku_dmitry
