@@ -23,8 +23,8 @@ description: Dmitry Kupriyanov
 
 # List of links in the navigation bar
 navbar-links:
-  Обо мне: "about"
-  Полезные ссылки:
+  Обо мне: "aboutme"
+  Пообщаться:
     - Канал в Telegram: "https://t.me/kuprianovsu"
     - Группа мехатроников в Telegram: "https://t.me/mexatronics"
   Старые материалы: "itmo"
